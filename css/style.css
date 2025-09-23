@@ -1,6 +1,6 @@
 /*h1{
     border: 20px solid green;
-}*/
+}
 
 h1{
     border-color: rgb(14, 11, 11);
@@ -26,4 +26,25 @@ h1{
     height: 100%;
     border: solid;
     width: 50%;
+}
+
+a{
+    font-size: 30px;
+    border: 2px solid;
+    padding: 5% 10%;
+    margin: 200px;
+
+
+}
+    */
+div {
+    font-size: 50px;
+    border: 2px solid;
+    /* top and bottom | left and right */
+    padding: 5% 10%;
+    margin: 100px 60px 100px 60px;
+  /* margem superior: 100px
+     margem direita: 60px
+     margem inferior: 100px
+     margem esquerda: 60px */
 }
