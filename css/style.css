@@ -1,0 +1,22 @@
+/*h1{
+    border: 20px solid green;
+}*/
+
+h1{
+    border-color: rgb(14, 11, 11);
+    border: 30px solid;
+    border-style: dashed;
+
+}
+
+#container{
+    width: 300px;
+    height: 400px;
+    border: solid;
+}
+
+.caixa{
+    border: solid;
+    height: 200px;
+    border: solid;
+}
