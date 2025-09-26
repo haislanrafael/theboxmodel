@@ -36,15 +36,15 @@ a{
 
 
 }
-    */
-div {
-    font-size: 50px;
-    border: 2px solid;
-    /* top and bottom | left and right */
-    padding: 5% 10%;
-    margin: 100px 60px 100px 60px;
-  /* margem superior: 100px
-     margem direita: 60px
-     margem inferior: 100px
-     margem esquerda: 60px */
+
+*/
+
+div{
+    background-color: purple;
+    margin: 30px;
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+
 }
+
